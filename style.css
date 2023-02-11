@@ -113,7 +113,8 @@ ul{
     margin-right: 20px;
     line-height: 1.5em;
     font-size: 1.2em;
-    color: #dd3e04;
+    /*color: #dd3e04;*/
+    color: black;
     text-align: justify;
     font-weight: 450;
 }
@@ -124,7 +125,7 @@ ol{
     line-height: 1.5em;
     font-size: 1.2em;
     font-weight: 450;
-    color: #dd3e04;
+    color: black;
     text-align: justify;
 }
 
