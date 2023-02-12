@@ -92,8 +92,6 @@ p{
     max-width: 500px;
     max-height: 500px;
     margin: auto;
-    border-radius: 2px;
-    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.377);
 }
 
 
@@ -147,6 +145,7 @@ main img{
     max-width: 850px;
     display: block;
     margin: auto;
+    padding: 0px 5px;
 }
 
 aside{
